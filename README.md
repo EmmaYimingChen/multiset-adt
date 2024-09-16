@@ -34,7 +34,7 @@ today, and don't be afraid to make mistakes.**
 - Aim to review at least one pull request during this activity.
 - Actively discuss with those around you to develop strategies for effectively working on a shared code base.
 
-## The code
+## The code ============
 
 You will be developing code for a `MultiSet` ADT, as well as several classes which implement the MultiSet ADT and
 a main method which makes use of it.
@@ -42,7 +42,7 @@ a main method which makes use of it.
 The main block of the provided Python code runs a timing experiment to compare the various implementations.
 It should feel quite similar to code you would have seen in your first-year CS course.
 
-## Instructions xxxxxxxxxxx
+## Instructions
 
 In a small group (around 4–5 students), choose one of you to make a fork of
 https://github.com/CSC207-2024F-UofT/multiset-adt 
